@@ -1,6 +1,6 @@
 # 5611-Project1.github.io
 ![unknown](https://user-images.githubusercontent.com/76919047/193730594-27db3b34-933c-4606-a7cb-1dd0ba36d5bf.png)
-This is what the game looks like with the PRM nodes visible. You can also turn on the routes for each 
+This is what the game looks like with the PRM nodes visible. You can also turn on the routes for the main agent and other agents(crowd sim).
 
 
 
@@ -12,12 +12,20 @@ https://user-images.githubusercontent.com/76919047/193732679-f90f0e44-e7aa-4879-
 
 
 https://user-images.githubusercontent.com/76919047/193733185-74d77098-0497-4a7f-9a85-ae6c0bc37c76.mp4
+Video Explanations(one video has start and end location visible, other video does not):
+- At the start ( Before 10 seconds), I am moving the start and end location
+- In the middle (10 seconds - 20 seconds), I am placing more obstacles down.
+- At the end (20 seconds - 30 seconds), I am showing the particle effects after the agent reaches its goal and how well the camera moves.
+- Throughout the video after the 10 second mark, I move the camera alittle bit to show that the camera moves and that it's all in 3d.
+
 
 
 Part 3
+
+![image](https://user-images.githubusercontent.com/76919047/193735166-84667cbe-677f-472a-851d-0f43ff8e1ccf.png)
+
 ![image](https://user-images.githubusercontent.com/76919047/193734977-01fd1890-b924-4f54-b506-2818f328fa6e.png)
 
-![image](https://user-images.githubusercontent.com/76919047/193735028-f3f1abb3-8934-4b83-b3d8-3a00a3c6dea9.png)
 
 
 Features I attempted:
