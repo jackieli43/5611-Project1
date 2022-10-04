@@ -1,17 +1,18 @@
 # 5611-Project1.github.io
 ![unknown](https://user-images.githubusercontent.com/76919047/193730594-27db3b34-933c-4606-a7cb-1dd0ba36d5bf.png)
+This is what the game looks like with the PRM nodes visible. You can also turn on the routes for each 
 
 
 
 
 
-
-
+PART 2
 https://user-images.githubusercontent.com/76919047/193732679-f90f0e44-e7aa-4879-8c2c-b60e251829e9.mp4
-
-
-
 https://user-images.githubusercontent.com/76919047/193733185-74d77098-0497-4a7f-9a85-ae6c0bc37c76.mp4
+
+
+Part 3
+
 
 Features I attempted:
 -   Single Agent Navigation 
@@ -33,5 +34,9 @@ Difficulties I ran into:
 -   For some reason, everything is a little laggy. Maybe its because I am running it on an older computer, but everything I do takes a second or so.
 
 
+
 Sources:
 - I got the idea of SphereLoc from https://github.com/erich666/T2Z/blob/master/src/ProjectT2Z/Animations.pde. Which made it easier for me to create spheres.
+
+
+
