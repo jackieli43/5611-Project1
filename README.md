@@ -30,7 +30,9 @@ Part 3
 
 Crowd Simulation:
 - I can't post a video, because I have a limit of 30 seconds per video, and I honestly don't think my computer can render it properly in thirty seconds.
-- There are sections of code I commented and above put "CROWD SIM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!". If you uncomment them and run, it should show each 
+- There are sections of code I commented and above put "CROWD SIM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!". If you uncomment them and run, it should show each unit moving and reacting to eachother.
+- The reason the crowd simulation takes up so much computational power, is that everytime the units see that they might run into another unit, they try to recalculate a path which takes a chunk of time.
+- I also put the images of the locations of where each place to uncomment in the code is.
 
 
 Features I attempted:
@@ -59,5 +61,6 @@ Sources:
 
 ![image](https://user-images.githubusercontent.com/76919047/193736153-962a4b17-7697-4878-9529-9d8925ae2e6f.png)
 
+If you uncomment this, you will be able to see the lines that each unit and agent takes.
 
 
