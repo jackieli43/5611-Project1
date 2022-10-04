@@ -3,9 +3,6 @@
 This is what the game looks like with the PRM nodes visible. You can also turn on the routes for the main agent and other agents(crowd sim).
 
 
-
-
-
 PART 2
 
 https://user-images.githubusercontent.com/76919047/193732679-f90f0e44-e7aa-4879-8c2c-b60e251829e9.mp4
@@ -27,6 +24,13 @@ Part 3
 
 ![image](https://user-images.githubusercontent.com/76919047/193734977-01fd1890-b924-4f54-b506-2818f328fa6e.png)
 
+![image](https://user-images.githubusercontent.com/76919047/193736074-aeb2a4ab-6dad-4f60-ae76-3f4d23c0f3ac.png)
+
+![image](https://user-images.githubusercontent.com/76919047/193736122-e9591dd3-3b83-4887-b026-3fecf6986a40.png)
+
+Crowd Simulation:
+- I can't post a video, because I have a limit of 30 seconds per video, and I honestly don't think my computer can render it properly in thirty seconds.
+- There are sections of code I commented and above put "CROWD SIM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!". If you uncomment them and run, it should show each 
 
 
 Features I attempted:
@@ -52,6 +56,8 @@ Difficulties I ran into:
 
 Sources:
 - I got the idea of SphereLoc from https://github.com/erich666/T2Z/blob/master/src/ProjectT2Z/Animations.pde. Which made it easier for me to create spheres.
+
+![image](https://user-images.githubusercontent.com/76919047/193736153-962a4b17-7697-4878-9529-9d8925ae2e6f.png)
 
 
 
