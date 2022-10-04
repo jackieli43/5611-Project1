@@ -14,12 +14,12 @@ https://user-images.githubusercontent.com/76919047/193732679-f90f0e44-e7aa-4879-
 https://user-images.githubusercontent.com/76919047/193733185-74d77098-0497-4a7f-9a85-ae6c0bc37c76.mp4
 
 Features I attempted:
-  Single Agent Navigation \n
-  3D Rendering & Camera \n
-  Improved Agent & Scene Rendering \n
-  Incorporate Particle System \n
-  User Scenario Editing+ \n
-  Crowd Simulation \n
+-   Single Agent Navigation 
+-   3D Rendering & Camera 
+-   Improved Agent & Scene Rendering 
+-   Incorporate Particle System 
+-   User Scenario Editing+ 
+-   Crowd Simulation
   
   
   
