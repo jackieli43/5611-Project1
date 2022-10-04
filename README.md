@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/76919047/193732679-f90f0e44-e7aa-4879-
 
 
 https://user-images.githubusercontent.com/76919047/193733185-74d77098-0497-4a7f-9a85-ae6c0bc37c76.mp4
+
 Video Explanations(one video has start and end location visible, other video does not):
 - At the start ( Before 10 seconds), I am moving the start and end location
 - In the middle (10 seconds - 20 seconds), I am placing more obstacles down.
