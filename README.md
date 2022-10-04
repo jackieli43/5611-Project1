@@ -31,7 +31,7 @@ Part 3
 Crowd Simulation:
 - I can't post a video, because I have a limit of 30 seconds per video, and I honestly don't think my computer can render it properly in thirty seconds.
 - There are sections of code I commented and above put "CROWD SIM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!". If you uncomment them and run, it should show each unit moving and reacting to eachother.
-- The reason the crowd simulation takes up so much computational power, is that everytime the units see that they might run into another unit, they try to recalculate a path which takes a chunk of time.
+- The reason the crowd simulation takes up so much computational power, is that everytime the units see that they might run into another unit, they try to recalculate a path which takes a chunk of time. I wasn't sure how to use TTC, because the other agents would run into obstacles if I did.
 - I also put the images of the locations of where each place to uncomment in the code is.
 
 
@@ -46,7 +46,7 @@ Features I attempted:
   
   
 Difficulties I ran into:
--   The biggest thing I think I ran into was that my partner dropped the class near the middle/end of this project which really left me in a time scramble to put this together.
+-   The biggest thing I think I ran into was that my partner dropped the class near the middle/end of this project which really left me in a time scramble to put this together. I think if I had a partner throughout this project would have gone much better, but things happen I guess.
 -   I didn't realize I could split crowd simulation and part 2 up, so I implemented a sort of crowd simulation into part 2 which honestly was really tough.
 -   Since I incorporated crowd simulation into part 2, I kept running into issues where my program would slow down, since there were so many computations being done.
 -   I havent used processing before, so it took alot to get used to.
@@ -58,6 +58,13 @@ Difficulties I ran into:
 
 Sources:
 - I got the idea of SphereLoc from https://github.com/erich666/T2Z/blob/master/src/ProjectT2Z/Animations.pde. Which made it easier for me to create spheres.
+
+Tools/Libraries:
+- I used Professors Guy's example code for many of the things such as the camera, object mesh, and PRM basics.
+- I used the person I mentioned in sources Sphere information to make it easier for me to make spheres.
+
+
+
 
 ![image](https://user-images.githubusercontent.com/76919047/193736153-962a4b17-7697-4878-9529-9d8925ae2e6f.png)
 
