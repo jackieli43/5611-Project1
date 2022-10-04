@@ -15,6 +15,9 @@ https://user-images.githubusercontent.com/76919047/193733185-74d77098-0497-4a7f-
 
 
 Part 3
+![image](https://user-images.githubusercontent.com/76919047/193734977-01fd1890-b924-4f54-b506-2818f328fa6e.png)
+
+![image](https://user-images.githubusercontent.com/76919047/193735028-f3f1abb3-8934-4b83-b3d8-3a00a3c6dea9.png)
 
 
 Features I attempted:
